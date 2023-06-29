@@ -13,6 +13,10 @@
     "**/*.spec.ts"
   ],
   "angularCompilerOptions": {
-    "enableIvy": false
+    "skipTemplateCodegen": true,
+    "strictMetadataEmit": true,
+    "fullTemplateTypeCheck": true,
+    "compilationMode": "partial",
+    "enableIvy": true
   }
 }
