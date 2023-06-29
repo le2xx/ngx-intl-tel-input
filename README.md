@@ -53,7 +53,7 @@ to **angular.json** styles array:
 
 ### Install This Library
 
-`$ npm install ngx-intl-tel-input --save`
+`$ npm install @le2xx/ngx-intl-tel-input --save`
 
 ## Usage
 
