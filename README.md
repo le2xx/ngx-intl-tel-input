@@ -26,7 +26,7 @@ Validation with [google-libphonenumber](https://github.com/ruimarinho/google-lib
 
 `$ npm install google-libphonenumber --save`
 
-`$ ng add ngx-bootstrap`
+`$ ng add ngx-bootstrap@10.2.0`
 
 If you do not wish to use Bootstrap's global CSS, we now package the project with only the relevant
 bootstrap styling needed for the dropdown. As such, you can remove the bootstrap styling from `angular.json`.
