@@ -1,6 +1,6 @@
 {
 	"name": "@le2xx/ngx-intl-tel-input",
-	"version": "4.0.1",
+	"version": "4.0.2",
 	"peerDependencies": {
 		"@angular/common": "^15.2.0",
 		"@angular/core": "^15.2.0",
